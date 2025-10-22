@@ -1,0 +1,262 @@
+{
+  "id": "c_1761039312543",
+  "title": "Antroduction to Brain Anatomy",
+  "subject": "Neuroanatomy",
+  "level": "Beginner",
+  "description": "Learn about the main parts of the brain and their functions",
+  "updatedAt": "2025-10-21T09:35:12.543Z",
+  "notes": [
+    "The brain has three main parts: cerebrum, cerebellum, brainstem",
+    "The frontal lobe is responsible for decision-making and movement control",
+    "The occipital lobe processes vision"
+  ],
+  "flashcards": [
+    {
+      "front": "Lobes of the Brain",
+      "back": "Frontal, Parietal, Temporal, Occipital"
+    },
+    {
+      "front": "Cerebrum",
+      "back": "Largest part of the brain, responsible for thinking, memory, and voluntary"
+    },
+    {
+      "front": "Cerebellum",
+      "back": "CerebellumControls balance, coordination, and fine motor skills"
+    },
+    {
+      "front": "Brainstem",
+      "back": "Controls basic life functions like breathing, heart rate, and digestion"
+    },
+    {
+      "front": "Frontal Lobe",
+      "back": "Responsible for decision-making, planning, and voluntary movement"
+    },
+    {
+      "front": "Parietal Lobe",
+      "back": "Processes sensory information such as touch, temperature, and pain"
+    },
+    {
+      "front": "Temporal Lobe",
+      "back": "Responsible for hearing, memory, and language comprehension"
+    },
+    {
+      "front": "Occipital Lobe",
+      "back": "Processes visual information"
+    },
+    {
+      "front": "Corpus Callosum",
+      "back": "Connects the two brain hemispheres and allows them to communicate"
+    },
+    {
+      "front": "Hippocampus",
+      "back": "Important for forming new memories"
+    },
+    {
+      "front": "Amygdala",
+      "back": "Involved in emotions such as fear and pleasure"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "1. What is a main part of the brain?",
+      "choices": [
+        "Lings",
+        "Heart",
+        "Cerebrum",
+        "Liver"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "2. Which part of the brain is the largest?",
+      "choices": [
+        "Cerebellum",
+        " Brainstem ",
+        " Cerebrum  ",
+        "Hippocampus"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "3. Which lobe controls decision-making and planning?",
+      "choices": [
+        "Frontal",
+        "Parietal",
+        "Temporal",
+        "Occipital"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "4. What does the cerebellum control?",
+      "choices": [
+        "Vision ",
+        "Balance and coordination",
+        "Language ",
+        "Emotions"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "5. Which part connects the two hemispheres?",
+      "choices": [
+        "Hippocampus",
+        "Amygdala",
+        "Corpus Callosum",
+        "Brainstem"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "6. Which lobe processes visual information?",
+      "choices": [
+        "Hippocampus  ",
+        "Occipital",
+        "Corpus Callosum  ",
+        "Brainstem"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "7. Which brain structure is essential for forming new memories?",
+      "choices": [
+        "Hippocampus",
+        "Cerebellum",
+        "Amygdala",
+        "Frontal Lobe"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "8. The brainstem controls:",
+      "choices": [
+        "Touch",
+        "B: Heart rate and breathing",
+        "Emotions",
+        "Memory"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "9. Which lobe processes sensory information like touch and temperature?",
+      "choices": [
+        "A: Parietal",
+        "Temporal",
+        "Frontal",
+        "Occipital"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "10. What is the function of the amygdala?",
+      "choices": [
+        "Memory",
+        "Vision",
+        "Coordination",
+        "Emotions"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "11. The temporal lobe is responsible for:",
+      "choices": [
+        "Hearing and memory",
+        "Balance ",
+        "Decission-making",
+        "Vision"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "12. Which part of the brain is located at the back and under the cerebrum?",
+      "choices": [
+        "Cerebellum",
+        "Frontal",
+        "Hippocampus",
+        "Amygdala"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "13. Which lobe is behind the forehead?",
+      "choices": [
+        "Frontal",
+        "Temporal",
+        "Parietal",
+        "Occipital"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "14. The brainstem is located:",
+      "choices": [
+        "Above the cerebrum",
+        "Below the cerebrum, connecting to the spinal cord",
+        "Inside the hippocampus",
+        "In the parietal lobe"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "15. Which part of the brain is responsible for language comprehension?",
+      "choices": [
+        "Temporal Lobe",
+        "Occicpital Lobe",
+        "Frontal Lobe",
+        "Cerebellum"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "16. Which structure is associated with fear and pleasure?",
+      "choices": [
+        "Amygdala",
+        "Hippocampus",
+        "Corpusculum",
+        "Cerebrum"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "17. The parietal lobe is found:",
+      "choices": [
+        "On top of the cerebrum",
+        "At the back of the brain",
+        "Under the cerebellum",
+        "Near the temporal lobe"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "18. Which part of the brain controls voluntary movements?  ",
+      "choices": [
+        "Cerebrum",
+        "Brainstem ",
+        "Cerebellum ",
+        "Amygdala"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "19. The frontal lobe is located:  ",
+      "choices": [
+        "Behind the eyes, forehead area",
+        "At the back of the head  ",
+        "Side of the head  ",
+        "Bottom of the brain"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "The corpus callosum is important for:  ",
+      "choices": [
+        "Coordinating balance",
+        "Connecting brain hemispheres",
+        "Vision  ",
+        "Hearing"
+      ],
+      "correct": 1
+    }
+  ],
+  "schema": "pocket-classroom/v1"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "c_1761039312544",
+  "title": "Nervous System Overview",
+  "subject": "Neuroscience",
+  "level": "Beginner",
+  "description": "Introduction to the central and peripheral nervous systems and their functions",
+  "updatedAt": "2025-10-21T09:50:12.543Z",
+  "notes": [
+    "CNS includes brain and spinal cord",
+    "PNS includes all peripheral nerves",
+    "Neurons are the basic units of the nervous system",
+    "Synapses allow neurons to communicate",
+    "The nervous system transmits signals throughout the body"
+  ],
+  "flashcards": [
+    { "front": "CNS", "back": "Central Nervous System, includes brain and spinal cord" },
+    { "front": "PNS", "back": "Peripheral Nervous System, includes all peripheral nerves" },
+    { "front": "Neuron", "back": "Basic functional unit of the nervous system" },
+    { "front": "Synapse", "back": "Junction where neurons communicate" },
+    { "front": "Sensory Neuron", "back": "Carries signals from sensory organs to CNS" },
+    { "front": "Motor Neuron", "back": "Carries signals from CNS to muscles and glands" },
+    { "front": "Interneuron", "back": "Connects neurons within CNS" },
+    { "front": "Autonomic Nervous System", "back": "Controls involuntary actions like heart rate and digestion" },
+    { "front": "Somatic Nervous System", "back": "Controls voluntary movements" },
+    { "front": "Reflex", "back": "Automatic response to a stimulus" }
+  ],
+  "quiz": [
+    {
+      "q": "1. CNS includes:",
+      "choices": ["Brain and PNS", "Brain and spinal cord", "Peripheral nerves", "Muscles"],
+      "correct": 1
+    },
+    {
+      "q": "2. PNS includes:",
+      "choices": ["Brain only", "Spinal cord only", "All peripheral nerves", "Neurons inside CNS"],
+      "correct": 2
+    },
+    {
+      "q": "3. Which neuron carries signals to muscles?",
+      "choices": ["Sensory neuron", "Motor neuron", "Interneuron", "Reflex neuron"],
+      "correct": 1
+    },
+    {
+      "q": "4. Synapse is:",
+      "choices": ["Brain region", "Muscle fiber", "Neuron junction", "Spinal cord segment"],
+      "correct": 2
+    },
+    {
+      "q": "5. The autonomic nervous system controls:",
+      "choices": ["Voluntary movement", "Reflexes", "Heart rate and digestion", "Memory"],
+      "correct": 2
+    }
+  ],
+  "schema": "pocket-classroom/v1"
+}

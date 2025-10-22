@@ -1,0 +1,75 @@
+{
+  "id": "c_1761039312548",
+  "title": "Human Senses",
+  "subject": "Physiology",
+  "level": "Beginner",
+  "description": "Overview of human sensory systems and how they function",
+  "updatedAt": "2025-10-21T10:50:12.543Z",
+  "notes": [
+    "Eyes process vision",
+    "Ears control hearing and balance",
+    "Skin detects touch and temperature",
+    "Nose detects smell",
+    "Tongue detects taste"
+  ],
+  "flashcards": [
+    { "front": "Eye", "back": "Processes vision" },
+    { "front": "Ear", "back": "Controls hearing and balance" },
+    { "front": "Skin", "back": "Detects touch and temperature" },
+    { "front": "Nose", "back": "Detects smell" },
+    { "front": "Tongue", "back": "Detects taste" }
+  ],
+  "quiz": [
+    {
+      "q": "1. Which sense organ processes vision?",
+      "choices": ["Eye", "Ear", "Nose", "Tongue"],
+      "correct": 0
+    },
+    {
+      "q": "2. Which organ controls hearing and balance?",
+      "choices": ["Skin", "Ear", "Eye", "Tongue"],
+      "correct": 1
+    },
+    {
+      "q": "3. Which organ detects touch and temperature?",
+      "choices": ["Nose", "Tongue", "Skin", "Ear"],
+      "correct": 2
+    },
+    {
+      "q": "4. Which organ detects smell?",
+      "choices": ["Nose", "Tongue", "Eye", "Skin"],
+      "correct": 0
+    },
+    {
+      "q": "5. Which organ detects taste?",
+      "choices": ["Ear", "Tongue", "Nose", "Skin"],
+      "correct": 1
+    },
+    {
+      "q": "6. The sense of balance is mainly controlled by:",
+      "choices": ["Ear", "Eye", "Nose", "Skin"],
+      "correct": 0
+    },
+    {
+      "q": "7. The eyes are part of which sensory system?",
+      "choices": ["Visual system", "Auditory system", "Olfactory system", "Gustatory system"],
+      "correct": 0
+    },
+    {
+      "q": "8. Taste is detected by receptors on the:",
+      "choices": ["Tongue", "Nose", "Skin", "Ear"],
+      "correct": 0
+    },
+    {
+      "q": "9. Touch and temperature are sensed by:",
+      "choices": ["Eye", "Tongue", "Skin", "Nose"],
+      "correct": 2
+    },
+    {
+      "q": "10. The ear helps maintain:",
+      "choices": ["Vision", "Hearing and balance", "Smell", "Taste"],
+      "correct": 1
+    }
+  ],
+  "schema": "pocket-classroom/v1"
+}

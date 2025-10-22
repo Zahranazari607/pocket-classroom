@@ -1,0 +1,132 @@
+/* Global Gradient Neon Theme */
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(120deg, #5ea6fd, #7c4bdd, #e27ab9);
+  background-size: 400% 400%;
+  animation: gradientBG 15s ease infinite;
+  color: #fefafa;
+  transition: background 0.5s, color 0.5s;
+}
+
+/* Hide sections by default; show only the active one */
+section {
+  display: none;
+  padding: 20px;
+}
+section.active {
+  display: block;
+}
+
+/* Background video with parallax effect */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -2;
+  transform: translateZ(-1px) scale(2);
+  filter: brightness(0.5) blur(1px);
+}
+
+/* Gradient animation */
+@keyframes gradientBG {
+  10% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Glassmorphism cards, forms, navbar */
+.card, .form-control, .form-select, .navbar, .btn-outline-light, .tab-content {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px) saturate(180%);
+  border-radius: 1rem;
+  border: 1px solid rgba(255,255,255,0.2);
+  transition: all 0.3s ease;
+  color: #fff;
+}
+
+/* Hover effects for neon */
+.card:hover, .btn:hover, .nav-link:hover {
+  box-shadow: 0 0 20px rgba(253, 134, 253, 0.6), 0 0 30px rgba(0, 255, 255, 0.6);
+  transform: translateY(-2px);
+}
+
+/* Navbar styling */
+.navbar {
+  background: rgba(0,0,0,0.3) !important;
+  box-shadow: 0 0 15px rgba(71, 9, 142, 0.83);
+}
+
+/* Tabs */
+.nav-tabs .nav-link.active {
+  background: rgba(4, 115, 242, 0.61);
+  border-color: rgba(255,255,255,0.2);
+  color: #ff6ec4;
+}
+
+/* Dark mode overrides */
+body.dark {
+  background: linear-gradient(120deg, #2a0d3e, #0d0d30, #330029);
+  color: #e0e0e0;
+}
+body.dark .card, body.dark .form-control, body.dark .form-select, body.dark .navbar, body.dark .tab-content {
+  background: rgba(115, 180, 255, 0.495);
+  border-color: rgb(34, 255, 240);
+  color: #ffffff;
+}
+body.dark .nav-tabs .nav-link.active {
+  color: #fd94c9;
+}
+
+/* Buttons */
+.btn-outline-light {
+  color: #fff;
+  border-color: #fff;
+}
+.btn-outline-light:hover {
+  background: rgba(255, 255, 255, 0.2);
+  color: #fff;
+}
+
+/* Flashcard styling */
+  #flashcard {
+    perspective: 1000px;
+}
+#flashcard .card {
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.2);
+}
+
+/* Neon colors and effect for footer */
+footer a:hover {
+  color: #ff6ec4;
+  text-shadow: 0 0 5px #eeff6e, 0 0 10px #d254a0, 0 0 20px #d36eff, 0 0 40px #6532de;
+  transform: scale(1.5);
+  transition: all 0.5s;
+}
+
+/* Sticky Footer */
+html, body {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+main {
+  flex: 1;
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+  .card, .form-control, .form-select {
+    font-size: 0.9rem;
+  }
+}
+

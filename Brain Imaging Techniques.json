@@ -1,0 +1,55 @@
+{
+  "id": "c_1761039312546",
+  "title": "Brain Imaging Techniques",
+  "subject": "Neuroimaging",
+  "level": "Beginner",
+  "description": "Learn about different brain imaging methods and their applications",
+  "updatedAt": "2025-10-21T10:20:12.543Z",
+  "notes": [
+    "MRI provides detailed structural images",
+    "CT is fast and used for detecting bleeding",
+    "PET shows brain activity using radioactive tracers",
+    "fMRI measures brain activity by detecting blood flow",
+    "EEG records electrical activity of the brain"
+  ],
+  "flashcards": [
+    { "front": "MRI", "back": "Magnetic Resonance Imaging, detailed structural images" },
+    { "front": "CT", "back": "Computed Tomography, fast imaging, often for bleeding" },
+    { "front": "PET", "back": "Positron Emission Tomography, shows brain activity" },
+    { "front": "fMRI", "back": "Functional MRI, detects blood flow changes in brain" },
+    { "front": "EEG", "back": "Electroencephalography, records electrical activity" },
+    { "front": "Structural imaging", "back": "Shows brain anatomy" },
+    { "front": "Functional imaging", "back": "Shows brain activity" },
+    { "front": "Contrast agent", "back": "Substance used to enhance imaging" },
+    { "front": "Radioactive tracer", "back": "Used in PET to measure metabolism or activity" },
+    { "front": "X-ray", "back": "Early imaging technique, less detailed for brain" }
+  ],
+  "quiz": [
+    {
+      "q": "1. Which imaging method shows detailed brain structure?",
+      "choices": ["PET", "MRI", "EEG", "fMRI"],
+      "correct": 1
+    },
+    {
+      "q": "2. Which imaging method is fast and detects bleeding?",
+      "choices": ["CT", "MRI", "PET", "EEG"],
+      "correct": 0
+    },
+    {
+      "q": "3. PET imaging uses:",
+      "choices": ["Magnetic fields", "X-rays", "Radioactive tracers", "Electrical signals"],
+      "correct": 2
+    },
+    {
+      "q": "4. fMRI measures:",
+      "choices": ["Electrical activity", "Blood flow changes in brain", "Bone density", "Heart rate"],
+      "correct": 1
+    },
+    {
+      "q": "5. EEG records:",
+      "choices": ["Blood flow", "Structural images", "Electrical activity", "Metabolic activity"],
+      "correct": 2
+    }
+  ],
+  "schema": "pocket-classroom/v1"
+}

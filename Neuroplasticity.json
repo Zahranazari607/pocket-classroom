@@ -1,0 +1,55 @@
+{
+  "id": "c_1761039312547",
+  "title": "Neuroplasticity",
+  "subject": "Brain Function",
+  "level": "Beginner",
+  "description": "The brain’s ability to change and reorganize after injury or learning",
+  "updatedAt": "2025-10-21T10:35:12.543Z",
+  "notes": [
+    "Neuroplasticity allows new neural pathways to form",
+    "Learning and practice strengthen connections",
+    "Brain can adapt after injury",
+    "Synaptic pruning removes unused connections",
+    "Rehabilitation enhances functional recovery"
+  ],
+  "flashcards": [
+    { "front": "Neuroplasticity", "back": "Brain’s ability to reorganize and form new connections" },
+    { "front": "Synapse", "back": "Junction between neurons" },
+    { "front": "Synaptic pruning", "back": "Removal of unused neural connections" },
+    { "front": "Neural pathway", "back": "Route of connected neurons" },
+    { "front": "Learning", "back": "Strengthens neural connections" },
+    { "front": "Recovery after injury", "back": "Brain adapts by forming new pathways" },
+    { "front": "Long-term potentiation", "back": "Strengthening of synapses over time" },
+    { "front": "Experience-dependent plasticity", "back": "Changes in brain due to learning or experience" },
+    { "front": "Rehabilitation", "back": "Therapy to enhance brain recovery" },
+    { "front": "Functional reorganization", "back": "Brain changes areas responsible for functions" }
+  ],
+  "quiz": [
+    {
+      "q": "1. Neuroplasticity allows:",
+      "choices": ["Brain shrinkage", "Formation of new neural connections", "Loss of neurons", "Faster heartbeat"],
+      "correct": 1
+    },
+    {
+      "q": "2. Strengthening of synapses through practice is called:",
+      "choices": ["Synaptic pruning", "Long-term potentiation", "Plasticity decay", "Neural fading"],
+      "correct": 1
+    },
+    {
+      "q": "3. Which process removes unused neural connections?",
+      "choices": ["Synaptic pruning", "Neurogenesis", "Functional reorganization", "Potentiation"],
+      "correct": 0
+    },
+    {
+      "q": "4. Brain adapts after injury by:",
+      "choices": ["Forming new neural pathways", "Stopping blood flow", "Reducing neurons", "Decreasing synapses"],
+      "correct": 0
+    },
+    {
+      "q": "5. Rehabilitation helps:",
+      "choices": ["Enhance brain recovery", "Destroy neurons", "Reduce learning", "Prevent movement"],
+      "correct": 0
+    }
+  ],
+  "schema": "pocket-classroom/v1"
+}
